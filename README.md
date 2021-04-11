@@ -1,2 +1,5 @@
-# opencart-extension-pay-in-store-v2302
-Opencart v2.3.0.2 extension "Pay In Store" 
+# Opencart extension "Pay In Store"
+
+**Opencart**: v2.3.0.2  
+**Languages**: English & Greek  
+Upload the contents of the `upload` folder.
