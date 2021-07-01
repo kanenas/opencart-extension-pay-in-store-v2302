@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Pay In Store';
 
 // Text
-$_['text_payment']       = 'Payment';
+$_['text_extension']     = 'Extensions';
 $_['text_success']       = 'Success: You have modified Pay In Store details!';
 $_['text_edit']          = 'Edit Pay In Store';
 
